@@ -1,0 +1,57 @@
+{
+  "cards": [
+    {
+      "name": "One",
+      "colors": [
+          "Red"
+      ],
+      "rarity": "Uncommon",
+      "set": "A"
+    },
+    {
+      "name": "Two",
+      "colors": [
+         "Red"
+      ],
+      "rarity": "Common",
+      "set": "A"
+    },
+    {
+      "name": "Three",
+      "colors": [
+        "Green",
+        "Red",
+        "Blue"
+      ],
+      "rarity": "Rare",
+      "set": "B"
+    },
+    {
+      "name": "Four",
+      "colors": [
+        "Green",
+        "Red"
+      ],
+      "rarity": "Rare",
+      "set": "B"
+    },
+    {
+      "name": "Five",
+      "colors": [
+        "Blue"
+      ],
+      "rarity": "Rare",
+      "set": "B"
+    },
+    {
+      "name": "Six",
+      "colors": [
+        "Blue",
+        "Red"
+      ],
+      "rarity": "Rare",
+      "set": "C"
+    }
+  ]
+}
+    
